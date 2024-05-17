@@ -2,3 +2,50 @@
     font-weight: 800;
     font-size: 15px;
 }
+#title{
+    text-align: center;
+    font-family: "open sans",Tahoma;
+}
+.container{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    font-family: "open sans" ,Verdana;
+    font-weight: 200;
+}
+.box{
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+#img-caption{
+    font-family: "open sans",Tahoma;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+#image{
+height: auto;
+display: block;
+max-width: 100%;
+margin: 0 auto;
+}
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px auto;
+max-width: 600px;
+}
+.quoted{
+    text-align: center;
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
